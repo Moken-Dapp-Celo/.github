@@ -10,3 +10,11 @@ But wait, there's more! Properties registered on the platform are equipped with 
 
 Moken's mission is clear: to disrupt the real estate market by obliterating deeply-rooted inefficiencies, boosting transparency, and significantly slashing costs. Say goodbye to the old, cumbersome ways and hello to a more efficient, cost-effective, and rewarding real estate experience for everyone involved. 🙌🏡
 
+## Our repositories
+
+Each repository contains instructions on how to run the code and specific informations.
+- frontend: Contains the code related to the application's frontend.
+- backend: Repository for the mqtt pubilsher/subscriber scheme that the iot will use to communicate with the blockchain
+- foundry: Contains code for the created contracts.
+- embedded: The code that has being used in the hardware device
+
